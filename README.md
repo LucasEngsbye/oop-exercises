@@ -1,2 +1,2 @@
 # oop-exercises
-All the exercises made in oop in SDU (Southern University of Denmark)
+All the exercises made in oop (Objekt Orienteret Programmering) in SDU (Southern University of Denmark)
